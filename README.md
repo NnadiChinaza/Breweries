@@ -20,28 +20,36 @@ R ANALYSIS
 
 
 1) PROFIT WORTH OF BREWERIES FOR BOTH TERRITORIES.
- To answer this question, it is important to note that anglophone countries are English-speaking countries while francophone countries are French-speaking countries. The countries in the data fall into the two categories.
+ 
+   To answer this question, it is important to note that anglophone countries are English-speaking countries while francophone countries are French-speaking countries. The countries in the data fall into the two categories.
 The profit worth of the breweries within the space of 3 years is  $105,587,420.
 
 2) COMAPRE THE TOTAL PROFIT BETWEEN IN THE TWO TERRITORIES.
+
    The profit made in the Amglophone territory is $42,389,260 while for the Francophone territory, the profit made is  $63,198,160. Therefore, The result shows that Francophone countries made more profits than the Anglophone countries.
 
-3) COUNTRY WITH THE HIGHEST PROFIT IN 2019
+4) COUNTRY WITH THE HIGHEST PROFIT IN 2019
+
    From the analysis, Ghana generated the highest profit of $7,144,070 in 2019.
 
-4) YEAR WITH THE HIGHEST PROFIT.
+5) YEAR WITH THE HIGHEST PROFIT.
+
    2017 is the year with the highest profit of $269,190.
 
-5) MONTH IN THE THREE YEARS WITH THE LEAST PROFIT GENERATED
+7) MONTH IN THE THREE YEARS WITH THE LEAST PROFIT GENERATED
+
    December has the lowest profits of $35,000 generated.
 
-6) MINIMUN PROFIT IN THE MONTH OF DECEMBER 2018
+9) MINIMUN PROFIT IN THE MONTH OF DECEMBER 2018
+
    The minimum profit in the month of December in 2018 is $38,150.
 
-7)COMPARE THE PROFIT IN PERCENTAGE FOR EACH MONTH IN 2019 ( USING A PIE CHART) 
-  The r code was written to make the comparison and also to produce a piechart from the result.
+7) COMPARE THE PROFIT IN PERCENTAGE FOR EACH MONTH IN 2019 ( USING A PIE CHART) 
 
-8) BRAND THAT GENERATED THE HIGHEST PROFIT IN 2019
+    The r code was written to make the comparison and also to produce a piechart from the result.
+
+9) BRAND THAT GENERATED THE HIGHEST PROFIT IN 2019
+
    Castle lite generated the highest profit of $269,190 in Senegal.
 
 
